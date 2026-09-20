@@ -110,14 +110,30 @@ I would like to express my sincere gratitude to MR WAQAS KARIM CCIE the instruct
 
 
 # Screenshot
+
+# Create Natnetwork
+
 <img width="1162" height="1389" alt="image" src="https://github.com/user-attachments/assets/9ad935ea-d811-41b1-967f-64e126e8282c" />
+
+
+# Setup the IP configuration of Kali Linux
 
 <img width="1162" height="1407" alt="image" src="https://github.com/user-attachments/assets/502a963d-0a65-43f9-a4ce-99512ce5ac08" />
 
+# Manual static IP configuration on Kali Linux
+
 <img width="1162" height="1582" alt="image" src="https://github.com/user-attachments/assets/c93ecca0-ab87-4312-9792-77ecc92b908e" />
 
-<img width="1162" height="1471" alt="image" src="https://github.com/user-attachments/assets/9793168f-3efc-4fc3-9879-176b4bcd3e53" />
+# Internet connectivity test from Kali Linux
+
+<img width="1162" height="1471" alt="image" src="https://github.com/user-attachments/assets/9793168f 3efc-4fc3-9879-176b4bcd3e53" />
+
+# Kali Linux internet connectivity verification (Successful ping test)
 
 
-Author
-Judith
+# Kali Linux internet connectivity verification (Successful ping test)
+<img width="1162" height="1377" alt="image" src="https://github.com/user-attachments/assets/261046ce-2136-4c1b-9415-4484406d6ad1" />
+
+
+
+
