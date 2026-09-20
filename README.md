@@ -4,7 +4,23 @@ This report documents the design, planning, and execution of Task WK1-PM1 from t
 A cybersecurity testing lab is a foundational requirement for anyone learning offensive security, penetration testing, or ethical hacking. 
 The lab built in this task uses a custom NATNetwork inside VirtualBox to create an internal subnet (10.0.0.0/24) that is isolated from the host's physical network, while still allowing internet access for tool updates. This mirrors real-world lab environments used by security professionals and forms the base on which future target machines (Windows, Linux servers, Android) will be added for exploitation practice.
 
- ## Objective
+ ## Objective 
+ Specific objectives defined by Task WK1-PM1 were:
+ 
+•	Install and configure VirtualBox (latest recommended version) as the virtualization base.
+
+•	Deploy Kali Linux as the dedicated attacking/hacker machine within the lab.
+
+•	Create an isolated internal network on subnet 10.0.0.0/24 using a custom NATNetwork.
+
+•	Assign Kali Linux a fixed, predictable IP address of 10.0.0.2/24.
+
+•	Enable clipboard sharing and file drag-and-drop between host and guest for workflow efficiency.
+
+•	Configure a shared folder mapped to the host's /downloads directory.
+
+•	Ensure Kali Linux retains full internet access for package updates and tool installation.
+
 The broader learning objective was to understand how isolated virtual lab networks are architected and secured, a skill directly transferable to professional penetration testing engagements where isolated client-provided environments are the norm.
  
  # Tools & Environment
