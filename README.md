@@ -130,6 +130,7 @@ I would like to express my sincere gratitude to MR WAQAS KARIM CCIE the instruct
 
 # Kali Linux internet connectivity verification (Successful ping test)
 
+<img width="1162" height="1471" alt="image" src="https://github.com/user-attachments/assets/17fa7665-b66b-46ca-9988-d506d384181c" />
 
 # Kali Linux internet connectivity verification (Successful ping test)
 <img width="1162" height="1377" alt="image" src="https://github.com/user-attachments/assets/261046ce-2136-4c1b-9415-4484406d6ad1" />
