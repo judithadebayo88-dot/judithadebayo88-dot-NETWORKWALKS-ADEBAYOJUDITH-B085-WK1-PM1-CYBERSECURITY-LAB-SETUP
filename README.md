@@ -109,6 +109,9 @@ Task WK1-PM1 has been completed successfully, resulting in a fully functional, i
 I would like to express my sincere gratitude to MR WAQAS KARIM CCIE the instructor and mentors at Network Walks for designing a structured, hands-on curriculum that made this lab setup possible. The clear task breakdowns, reference diagrams, and live class walkthroughs provided the foundation needed to complete this task independently and confidently.
 
 
+# Screenshot
+IMG_20260920_005447_953[1].jpg
+
 
 Author
 Judith
