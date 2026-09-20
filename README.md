@@ -116,6 +116,8 @@ I would like to express my sincere gratitude to MR WAQAS KARIM CCIE the instruct
 
 <img width="1162" height="1582" alt="image" src="https://github.com/user-attachments/assets/c93ecca0-ab87-4312-9792-77ecc92b908e" />
 
+<img width="1162" height="1471" alt="image" src="https://github.com/user-attachments/assets/9793168f-3efc-4fc3-9879-176b4bcd3e53" />
+
 
 Author
 Judith
